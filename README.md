@@ -1,6 +1,8 @@
 # OCRScanner
-- A hybrid application for text recognition built using React Native
-- In this application a user can select an exisitng image or capture a new image and extract text from the image
+A hybrid application for text recognition built using React Native .
+
+## Features
+- User can select an exisitng image or capture a new image and extract text from the image
 - It is an on device text recognition application, i.e, does not require internet
 
 ## Key Packages
